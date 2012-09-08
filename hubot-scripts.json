@@ -1,1 +1,1 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+["redis-brain.coffee", "auth.coffee", "bang.coffee", "bang-bang.coffee", "newrelic.coffee", "abstract.coffee"]
