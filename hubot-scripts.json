@@ -1,1 +1,9 @@
-["redis-brain.coffee", "auth.coffee", "bang.coffee", "bang-bang.coffee", "newrelic.coffee", "abstract.coffee"]
+[
+    "redis-brain.coffee",
+    "auth.coffee",
+    "bang.coffee",
+    "bang-bang.coffee",
+    "newrelic.coffee",
+    "abstract.coffee", 
+    "play.coffee"
+]
